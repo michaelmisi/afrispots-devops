@@ -9,6 +9,16 @@ L’objectif est d’unifier les pratiques DevOps, de faciliter l’onboarding d
 
 ---
 
+## ⚙️ Installation
+
+```bash
+# Cloner le repo
+git clone https://github.com/michaelmisi/afrispots-devops.git
+cd afrispots-devops
+
+```
+
+
 ## 📁 Structure du dépôt
 
 ```
